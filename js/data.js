@@ -5,15 +5,18 @@
 
 const SITE = {
   name: "Shubham Singh",
-  tagline: "Building things, learning in public, and sharing the journey.",
+  tagline: "Technical Product Manager, based in the Netherlands.",
   // Short intro shown on the Home page. Separate paragraphs with a blank
   // line — each becomes its own <p>.
   bio: `
-Hi, I'm Shubham — [your role/what you do, e.g. "a software engineer based in ___"].
-This site is where I share a bit about who I am, what I've worked on, and
-what I'm learning along the way.
+Hi, I'm Shubham — a Technical Product Manager based in the Netherlands. I
+started my career as an engineer, building software solutions for a US
+company.
 
-[Add 1–2 more sentences about your current focus or what you care about.]
+Along that journey, I discovered a passion for problem discovery —
+understanding optionality and trade-offs, and turning that thinking into
+software solutions that matter. This site is where I share a bit about who
+I am, what I've worked on, and what I'm learning along the way.
   `,
 };
 
@@ -21,7 +24,7 @@ what I'm learning along the way.
 // "icon" must be one of: github, linkedin, twitter, instagram, youtube, website, email
 // (see ICONS in js/main.js) — or omit it to use a generic link icon.
 const SOCIAL_LINKS = [
-  { name: "GitHub", icon: "github", url: "https://github.com/your-username" },
+  { name: "GitHub", icon: "github", url: "https://github.com/shubham-bitsnbytes" },
   { name: "LinkedIn", icon: "linkedin", url: "https://linkedin.com/in/your-username" },
   { name: "Instagram", icon: "instagram", url: "https://instagram.com/your-username" },
 ];
@@ -30,12 +33,20 @@ const SOCIAL_LINKS = [
 // A longer narrative plus a timeline of milestones.
 const JOURNEY = {
   intro: `
-This is the fuller story — where I started, the turns along the way, and
-how I got to what I'm doing now. Replace this with your own narrative in
-js/data.js.
+I started my career as an engineer, building software solutions for a US
+company. It was hands-on, technical work — and it gave me a solid grounding
+in how software actually gets built.
 
-[Talk about your background, what shaped your path, and any pivots or
-turning points worth sharing.]
+Along the way, I found myself drawn less to writing the code and more to
+the questions before it: what problem are we actually solving, what are
+the options, and what trade-offs are we making by choosing one over
+another. That shift in curiosity — from building to problem discovery — is
+what eventually led me into product management.
+
+Today I work as a Technical Product Manager based in the Netherlands,
+where that engineering background still shapes how I think: I care about
+optionality, trade-offs, and grounding product decisions in how the
+software actually works.
   `,
   milestones: [
     {
