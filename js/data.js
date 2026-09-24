@@ -25,7 +25,7 @@ I am, what I've worked on, and what I'm learning along the way.
 // (see ICONS in js/main.js) — or omit it to use a generic link icon.
 const SOCIAL_LINKS = [
   { name: "GitHub", icon: "github", url: "https://github.com/shubham-bitsnbytes" },
-  { name: "LinkedIn", icon: "linkedin", url: "https://linkedin.com/in/your-username" },
+  { name: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/shubhamksingh/" },
   { name: "Instagram", icon: "instagram", url: "https://instagram.com/your-username" },
 ];
 
